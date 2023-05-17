@@ -12,3 +12,8 @@ A signal peak detector is implemented for determining the number of syllables sp
 
 Results of the silence removing algorithm is shown below, with a moving average filter applied to the same waveform alongside.
 ![Silence removal](/BirdsSilenceRemoved.png?raw=true "Silence removal algorithm applied to recording of birds")
+
+## Remarks
+Project description, as well as a short report on methodology and conclusions can be found in the included PDFs.
+
+Completed in Fall 2022 as a course project for SYDE 252 Linear Systems and Signals course at the University of Waterloo.
